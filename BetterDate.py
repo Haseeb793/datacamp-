@@ -1,3 +1,4 @@
+#class definition
 class BetterDate:    
     # Constructor
     def __init__(self, year, month, day):
